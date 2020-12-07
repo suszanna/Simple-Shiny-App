@@ -23,3 +23,5 @@ The documentation should be at the Shiny website itself. Do not post to an exter
 
 This app runs great on shiny app as of this evening dec-6-2020:  https://suszanna.shinyapps.io/simple/
 The full presentation was written in Rstudio so needs to be posted to RPubs. It worked great for a bit - beautifully, then something broke. Likely I need to reload Rstudio before uploading to Rpubs - as it is likely RStudio that is now broke from all the hammering all day getting this done.  Will try again in the AM.
+
+The png's here are just a record of this 5 page simple shiny app, just in case the shinyapps.io becomes inaccessible while you are trying to review.
